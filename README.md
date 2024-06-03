@@ -1,2 +1,2 @@
 # Simple-Linked-List
-Simple Linked List 
+Straight forward approach
